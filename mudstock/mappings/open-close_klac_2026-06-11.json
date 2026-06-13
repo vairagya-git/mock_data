@@ -1,0 +1,39 @@
+{
+  "id": "3e6de532-5902-4e49-b902-7bb566ca2cca",
+  "name": "open-close_klac_2026-06-11",
+  "request": {
+    "urlPath": "/v1/open-close/KLAC/2026-06-11",
+    "method": "GET",
+    "queryParameters": {
+      "adjusted": {
+        "hasExactly": [
+          {
+            "equalTo": "true"
+          }
+        ]
+      },
+      "apiKey": {
+        "hasExactly": [
+          {
+            "equalTo": "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+          }
+        ]
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "open-close_klac_2026-06-11-response.json",
+    "headers": {
+      "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+      "X-Request-Id": "fd585f33991671777aa743c4b48dc057",
+      "Vary": "Accept-Encoding",
+      "Date": "Sat, 13 Jun 2026 14:01:06 GMT",
+      "X-Polygon-Cluster-Name": "polygon-ny5",
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "3e6de532-5902-4e49-b902-7bb566ca2cca",
+  "persistent": true,
+  "insertionIndex": 34
+}

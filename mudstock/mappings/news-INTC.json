@@ -1,0 +1,69 @@
+{
+  "id": "9005f5a2-82cc-4892-9026-8927f2dff2df",
+  "name": "v2_reference_news",
+  "request": {
+    "urlPath": "/v2/reference/news",
+    "method": "GET",
+    "queryParameters": {
+      "ticker": {
+        "hasExactly": [
+          {
+            "equalTo": "INTC"
+          }
+        ]
+      },
+      "order": {
+        "hasExactly": [
+          {
+            "equalTo": "desc"
+          }
+        ]
+      },
+      "limit": {
+        "hasExactly": [
+          {
+            "equalTo": "10"
+          }
+        ]
+      },
+      "sort": {
+        "hasExactly": [
+          {
+            "equalTo": "published_utc"
+          }
+        ]
+      },
+      "published_utc.gte": {
+        "hasExactly": [
+          {
+            "equalTo": "2026-06-01"
+          }
+        ]
+      },
+      "apiKey": {
+        "hasExactly": [
+          {
+            "equalTo": "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+          }
+        ]
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "news-INTC-response.json",
+    "headers": {
+      "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+      "X-Request-Id": "a5803981a84bd6b50775571539b6ad04",
+      "Vary": "Accept-Encoding",
+      "X-Item-Count": "10",
+      "Link": "<https://api.massive.com/v2/reference/news?cursor=YXA9MjAyNi0wNi0xMVQxNyUzQTE0JTNBMzdaJmFzPTUxMDMxZmZhZjMyZmYyMzFkZjMyZTZhZjdmN2FkYmU4ZDU3ODMyZWZlZDBmYjYyMWIwMDIxNGViZTc1OTY1ZjImb3JkZXI9ZGVzY2VuZGluZyZwdWJsaXNoZWRfdXRjLmd0ZT0yMDI2LTA2LTAxJnRpY2tlcj1JTlRD>; rel=\"next\"",
+      "Date": "Sat, 13 Jun 2026 13:04:01 GMT",
+      "X-Polygon-Cluster-Name": "polygon-ny5",
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "9005f5a2-82cc-4892-9026-8927f2dff2df",
+  "persistent": true,
+  "insertionIndex": 10
+}

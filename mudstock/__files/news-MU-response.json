@@ -1,0 +1,618 @@
+{
+  "results": [
+    {
+      "id": "58497c5b73fdfadf4ec7639541636a7caf595c4de1c80c73e6c8e91412d34fc5",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "SpaceX, Super Micro Computer, Micron And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "author": "Rishabh Mishra",
+      "published_utc": "2026-06-13T10:01:26Z",
+      "article_url": "https://www.benzinga.com/markets/equities/26/06/53183366/spacex-super-micro-computer-micron-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-w?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+      "tickers": [
+        "SPCX",
+        "SMCI",
+        "MU",
+        "UBER",
+        "AMD"
+      ],
+      "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/13/Paris--France---February-3--2026-A-Horiz.jpeg",
+      "description": "Retail investors focused on five stocks this week (June 8-12): SpaceX debuted with strong IPO performance, gaining 19.3% on its first day; Super Micro Computer announced a $7 billion financing package but faced dilution concerns; Micron saw bullish momentum from analyst upgrades and board appointments; Uber faced legal challenges over NYC driver deactivation laws; and AMD committed £2 billion to UK AI infrastructure development.",
+      "keywords": [
+        "IPO",
+        "AI infrastructure",
+        "semiconductors",
+        "retail investors",
+        "stock performance",
+        "financing",
+        "analyst upgrades"
+      ],
+      "insights": [
+        {
+          "ticker": "SPCX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong IPO debut with 19.3% gain on first trading day, opening at 11.1% premium to IPO price, indicating strong retail investor demand and market enthusiasm."
+        },
+        {
+          "ticker": "SMCI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "While the $7 billion financing package supports a massive $39 billion AI server backlog, the announcement triggered sharp selling due to equity dilution concerns from the $4.9 billion offering."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong positive momentum driven by bullish analyst upgrades, board appointment of Alexis Black Björlin, and selection of Bechtel as construction partner for New York semiconductor fab project amid strong AI memory demand."
+        },
+        {
+          "ticker": "UBER",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Faced legal challenges with lawsuit against NYC over Local Law 52, which restricts driver deactivation capabilities, creating regulatory and operational uncertainty."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Committed £2 billion ($2.66 billion) to boost AI research, infrastructure, supercomputing, and workforce development in the UK, demonstrating strong investment in AI infrastructure growth."
+        }
+      ]
+    },
+    {
+      "id": "b92473d454f0887614113ea38ac36da6f382a38b991ec63c6a5844f28b2e7938",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Forget the \"Magnificent Seven\": These 3 Hypergrowth Artificial Intelligence (AI) Stocks Are Just Getting Started",
+      "author": "Keithen Drury",
+      "published_utc": "2026-06-13T00:15:00Z",
+      "article_url": "https://www.fool.com/investing/2026/06/12/forget-the-magnificent-seven-these-3-hypergrowth-a/?source=iedfolrf0000001",
+      "tickers": [
+        "MU",
+        "SNDK",
+        "NBIS",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873648%2Fphoto-of-data-center-with-gpus.jpg&w=1200&op=resize",
+      "description": "Three AI-focused stocks—Micron, Sandisk, and Nebius—are experiencing hypergrowth rates far exceeding the Magnificent Seven. Micron and Sandisk are capitalizing on a memory chip shortage driven by AI infrastructure demand, with projected growth of 197% and 167% respectively in fiscal 2026. Nebius, a neocloud company building AI-focused data centers, is growing even faster with 684% year-over-year revenue growth in Q1 and expectations of 20x revenue growth by 2027.",
+      "keywords": [
+        "AI stocks",
+        "hypergrowth",
+        "memory chips",
+        "NAND memory",
+        "DRAM",
+        "data centers",
+        "cloud computing",
+        "semiconductor shortage",
+        "AI infrastructure"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong revenue growth trajectory (from $13.6B to $33.5B in recent quarters), expected 197% growth in fiscal 2026, and continued demand from AI infrastructure build-out support bullish outlook despite significant stock appreciation."
+        },
+        {
+          "ticker": "SNDK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Exceptional 251% year-over-year revenue growth, focused NAND memory specialization for high-demand SSDs, and Wall Street projections of 167% growth in fiscal 2026 and 122% in fiscal 2027 indicate strong future performance."
+        },
+        {
+          "ticker": "NBIS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Extraordinary 684% year-over-year Q1 revenue growth, positioned in high-demand AI-first cloud computing, and projected 20x revenue growth by 2027 with 551% expected growth for remainder of 2026 suggest exceptional growth potential."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of the Magnificent Seven comparison and noted as having ~30% growth rate, which is impressive but not hypergrowth; included in disclosure but not primary focus of article."
+        }
+      ]
+    },
+    {
+      "id": "b4d502c686b8fb6bc3c5c34763091dea2a0e3739ce59b4d98b002313a8699516",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/investing.ico"
+      },
+      "title": "This Index’s Comeback Is a Lesson in Long-Term Investing",
+      "author": "Matt Stucky",
+      "published_utc": "2026-06-12T15:52:00Z",
+      "article_url": "https://www.investing.com/analysis/this-indexs-comeback-is-a-lesson-in-longterm-investing-200682069",
+      "tickers": [
+        "MU",
+        "INTC",
+        "AMAT",
+        "WDC"
+      ],
+      "amp_url": "https://m.investing.com/analysis/this-indexs-comeback-is-a-lesson-in-longterm-investing-200682069?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The MSCI USA Value Enhanced Value Index (M2USEV) has demonstrated a powerful comeback since 2025, outperforming the S&P 500 by 69.9% versus 25.4% through May 2026. The sector-neutral value index's resurgence, driven primarily by strong stock selection in semiconductors and memory chips, illustrates the importance of diversification and patience in long-term investing. The index has delivered 169.3% total returns since August 2020 versus 125.3% for the S&P 500, with semiconductor positions in Micron, Intel, Applied Materials, and Western Digital generating over three-quarters of the strategy's outperformance.",
+      "keywords": [
+        "value investing",
+        "factor investing",
+        "diversification",
+        "semiconductors",
+        "memory chips",
+        "long-term investing",
+        "stock selection",
+        "sector-neutral strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major contributor to index outperformance with strong returns driven by favorable memory chip market conditions; supply-demand shift from surplus to shortage has driven significant price increases."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Key semiconductor position in the index with strong recent performance; benefits from memory and data storage supply chain dynamics and increased contract prices."
+        },
+        {
+          "ticker": "AMAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Semiconductor equipment player that has seen significant gains as part of the index's technology sector outperformance; benefits from memory industry supply chain improvements."
+        },
+        {
+          "ticker": "WDC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Data storage company that has contributed substantially to index outperformance; positioned favorably in the memory and data storage supply chain with rising contract prices."
+        }
+      ]
+    },
+    {
+      "id": "09d4e26a0a1bdb8b7d52e67e993a0c44db7091c86e03023cfd6b24565a8e1edb",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Stock Market: Will S&P 500 Open Up Or Down Today?",
+      "author": "Eva Mathew",
+      "published_utc": "2026-06-12T08:36:03Z",
+      "article_url": "https://www.benzinga.com/markets/prediction-markets/26/06/53160378/sp500-june-12-open-up-or-down-polymarket-spacex-ipo-iran-deal?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+      "tickers": [
+        "INTC",
+        "AMD",
+        "MU",
+        "ORCL",
+        "ORCLpD",
+        "SOXX"
+      ],
+      "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/12/Tallinn--Estonia---August-4th-2023---Com.jpeg",
+      "description": "The S&P 500 surged 1.75% on Thursday to 7,394.30 as easing U.S.-Iran tensions and a semiconductor rebound sparked a broad rally. Polymarket traders predict an 83% probability of a higher Friday open. Attention is shifting to SpaceX's anticipated $75 billion Nasdaq debut. However, Oracle fell 8% after announcing a $20 billion AI expansion, raising concerns about stretched tech valuations.",
+      "keywords": [
+        "S&P 500",
+        "semiconductor stocks",
+        "U.S.-Iran peace deal",
+        "SpaceX IPO",
+        "tech valuations",
+        "AI spending",
+        "market rally"
+      ],
+      "insights": [
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Semiconductor sector rebounded sharply on Thursday; Intel moved higher along with AMD and Micron as part of broad semiconductor rally"
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Semiconductor sector rebounded sharply on Thursday; AMD moved higher as part of broad semiconductor rally"
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Semiconductor sector rebounded sharply on Thursday; Micron moved higher as part of broad semiconductor rally"
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Shares fell 8% after announcing $20 billion additional funding for AI expansion, highlighting investor scrutiny of AI-related spending and concerns about stretched tech valuations"
+        },
+        {
+          "ticker": "ORCLpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Shares fell 8% after announcing $20 billion additional funding for AI expansion, highlighting investor scrutiny of AI-related spending and concerns about stretched tech valuations"
+        },
+        {
+          "ticker": "SOXX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Semiconductor ETF gained more than 8% on Thursday as sector rebounded sharply"
+        }
+      ]
+    },
+    {
+      "id": "4e907b9aa37a3c9966b2bbadf5e39582ee21fbc89ec6e3a28f6ef1d7f70127e8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Joby Aviation Stock Sinks on Latest News. Will the eVTOL Ever Recover Its Lost Value?",
+      "author": "John Bromels",
+      "published_utc": "2026-06-12T08:36:00Z",
+      "article_url": "https://www.fool.com/investing/2026/06/12/joby-aviation-stock-sinks-on-latest-news-will-the/?source=iedfolrf0000001",
+      "tickers": [
+        "JOBY",
+        "JOBY.WS",
+        "ACHR",
+        "ACHR.WS",
+        "MU",
+        "SOUN",
+        "SOUNW"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874026%2Fjoby_passenger-lifestyle_2025_04.jpg&w=1200&op=resize",
+      "description": "Joby Aviation's stock fell 20% last week following a stronger-than-expected jobs report, which raised concerns about potential Federal Reserve interest rate hikes. Despite positive company-specific news including NYC eVTOL demonstration flights, the macroeconomic outlook for high-growth companies dimmed. The stock is down over 50% from its all-time high, though FAA approval could trigger a significant recovery.",
+      "keywords": [
+        "eVTOL",
+        "electric vertical takeoff and landing",
+        "interest rate hikes",
+        "high-growth stocks",
+        "Federal Reserve",
+        "jobs report",
+        "air taxi"
+      ],
+      "insights": [
+        {
+          "ticker": "JOBY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock fell 20% last week due to macroeconomic concerns about interest rate hikes. Despite positive company-specific news (NYC demonstration flights, lawsuit dismissal), the broader economic outlook for high-growth companies weakened. Stock is down 50% from all-time high and remains speculative and volatile."
+        },
+        {
+          "ticker": "JOBY.WS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock fell 20% last week due to macroeconomic concerns about interest rate hikes. Despite positive company-specific news (NYC demonstration flights, lawsuit dismissal), the broader economic outlook for high-growth companies weakened. Stock is down 50% from all-time high and remains speculative and volatile."
+        },
+        {
+          "ticker": "ACHR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock fell 19% alongside Joby Aviation due to the same macroeconomic concerns about interest rate hikes affecting high-growth companies in the eVTOL sector."
+        },
+        {
+          "ticker": "ACHR.WS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock fell 19% alongside Joby Aviation due to the same macroeconomic concerns about interest rate hikes affecting high-growth companies in the eVTOL sector."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "negative",
+          "sentiment_reasoning": "High-growth memory stock dropped 16.6% in the same market sell-off triggered by interest rate concerns, demonstrating broader weakness in growth stocks."
+        },
+        {
+          "ticker": "SOUN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "AI voice chatbot company plunged 20.1% in the same market downturn affecting high-growth stocks due to interest rate concerns."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "negative",
+          "sentiment_reasoning": "AI voice chatbot company plunged 20.1% in the same market downturn affecting high-growth stocks due to interest rate concerns."
+        }
+      ]
+    },
+    {
+      "id": "087a545a4f4c3c40f06f138ec065048230381ef7f56200edaaa813ab64cab05d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The 1 Sentence to Watch For in Next Week's Federal Reserve Statement",
+      "author": "Matthew Benjamin",
+      "published_utc": "2026-06-11T20:15:00Z",
+      "article_url": "https://www.fool.com/investing/2026/06/11/sentence-watch-next-federal-reserve-statement/?source=iedfolrf0000001",
+      "tickers": [
+        "MU",
+        "INTC",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873872%2Fgettyimages-1446870553.jpg&w=1200&op=resize",
+      "description": "The Federal Reserve's FOMC will meet June 16-17 to discuss monetary policy. Investors will closely watch whether the Fed removes its easing bias language from its statement, which would signal a shift toward potential rate hikes. With inflation at 4.2% year-over-year (well above the 2% target) and a strong labor market (172,000 new jobs in May, 4.3% unemployment), the economic conditions now favor tightening rather than easing rates.",
+      "keywords": [
+        "Federal Reserve",
+        "FOMC",
+        "monetary policy",
+        "interest rates",
+        "inflation",
+        "labor market",
+        "rate hike",
+        "CPI"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Mentioned as a market leader in a rebound context, but potential Fed rate hikes would negatively impact semiconductor stocks and growth-oriented tech companies due to higher borrowing costs."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Mentioned alongside Micron in market rebound, but faces same headwinds as semiconductor sector from potential Fed rate tightening."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Listed as a market leader in rebound, but as a high-growth tech stock, would be negatively impacted by Fed rate hikes and tightening monetary policy."
+        }
+      ]
+    },
+    {
+      "id": "f5ecf8b82d2adc46d56bd7a7fddfa54f2a8e3207f406aefafe059b9d7521e92b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Micron Stock Bounced Back Today",
+      "author": "Rich Smith",
+      "published_utc": "2026-06-11T20:08:46Z",
+      "article_url": "https://www.fool.com/investing/2026/06/11/why-micron-stock-bounced-back-today/?source=iedfolrf0000001",
+      "tickers": [
+        "MU"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874117%2Fmicron-building-with-blue-micron-sign-out-front-is-mu.jpg&w=1200&op=resize",
+      "description": "Micron stock surged 11.7% on Thursday after a two-day decline, with Wolfe Research analyst Chris Caso raising the price target to $1,250 per share. The analyst predicts DRAM and NAND memory prices could rise significantly through 2026-2027, driven by insatiable AI data center demand, potentially supporting strong earnings and sales growth for Micron through 2028.",
+      "keywords": [
+        "Micron Technology",
+        "semiconductor chips",
+        "AI chips",
+        "high-bandwidth memory",
+        "DRAM prices",
+        "NAND memory prices",
+        "price target",
+        "AI data centers",
+        "memory market"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wolfe Research raised price target to $1,250 (26% upside from current levels), analyst predicts sustained demand for memory chips from AI data centers with limited supply, expects DRAM and NAND prices to rise 200%+ through 2026 and continue rising into 2027-2028, projects $226.5B in sales and $135 EPS for next year, indicating strong growth prospects."
+        }
+      ]
+    },
+    {
+      "id": "3042bee9e65a5841906babd4896f48c53f454de2517ade2f77b68083cfdabba0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Vanguard ETF Has Outperformed the Company's S&P 500 Fund for Years. Most Investors Have Never Heard of It.",
+      "author": "David Dierking",
+      "published_utc": "2026-06-11T18:30:00Z",
+      "article_url": "https://www.fool.com/investing/2026/06/11/vanguard-etf-outperformed-voo-for-years-vfmo/?source=iedfolrf0000001",
+      "tickers": [
+        "VFMO",
+        "VOO",
+        "AAPL",
+        "NVDA",
+        "AMD",
+        "MU"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873623%2Fgettyimages-1293582790.jpg&w=1200&op=resize",
+      "description": "The Vanguard U.S. Momentum Factor ETF (VFMO), a lesser-known actively managed fund, has outperformed Vanguard's S&P 500 ETF since its 2018 inception with a 26.2% annualized three-year return versus 21.3%. Using a rules-based quantitative model to identify stocks with strong recent performance, the fund offers significant diversification from broad market funds with only 23% overlap and lower concentration risk, though it carries roughly 30% higher volatility due to its 29% small-cap allocation.",
+      "keywords": [
+        "momentum factor",
+        "ETF performance",
+        "active management",
+        "small-cap allocation",
+        "diversification",
+        "quantitative investing"
+      ],
+      "insights": [
+        {
+          "ticker": "VFMO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The fund has consistently outperformed the S&P 500 with a 26.2% annualized three-year return, offers excellent diversification with only 23% overlap to broad market funds, has low concentration risk, and historical data shows momentum factors deliver superior risk-adjusted returns over decades."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Presented as a solid baseline comparison fund with ultra-low expenses (0.03%) and massive assets under management ($991.3 billion), but underperformed the momentum factor ETF in recent years, making it a standard broad-market option rather than an outperformer."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in the S&P 500 ETF (6.5% allocation) but not in the momentum factor ETF, indicating it is a large-cap stable holding rather than a momentum-driven investment."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as the largest holding in the S&P 500 ETF (7.9%) but not prominently featured in the momentum factor ETF, suggesting it is a mega-cap anchor rather than a momentum play."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a top holding in the momentum factor ETF (1.1% allocation), indicating it exhibits the strong recent performance characteristics the fund targets."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a top holding in the momentum factor ETF (1.1% allocation), suggesting it demonstrates the momentum characteristics the fund seeks to capture."
+        }
+      ]
+    },
+    {
+      "id": "28d6145096ed8f2ec04333ac9957bdfe5dd14caea80f0d187d505126f3512f90",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Dow Jones and S&P 500 Climb Thursday as Wall Street Shakes Off Three-Day Slump Before SpaceX IPO",
+      "author": "Anders Bylund",
+      "published_utc": "2026-06-11T17:01:33Z",
+      "article_url": "https://www.fool.com/investing/2026/06/11/dow-jones-and-sp-500-climb-thursday-as-wall-street/?source=iedfolrf0000001",
+      "tickers": [
+        "LRCX",
+        "MU",
+        "ORCL",
+        "ORCLpD",
+        "GOOG",
+        "GOOGL",
+        "GOOGM",
+        "GOOGN",
+        "IBIT"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874097%2Frebound-recovery-pushing-arrows-up-186319272.jpg&w=1200&op=resize",
+      "description": "Wall Street recovered from a three-day losing streak on Thursday, with the Dow Jones up 0.7% and S&P 500 up 0.4% by noon. Chip equipment makers led gains, but momentum faded due to hotter-than-expected inflation data and Middle East tensions. SpaceX is expected to debut Friday at a $1.75 trillion valuation, with some analysts suggesting this week's tech weakness reflects investors liquidating positions to fund the historic IPO.",
+      "keywords": [
+        "market recovery",
+        "inflation data",
+        "semiconductor stocks",
+        "SpaceX IPO",
+        "geopolitical risk",
+        "chip equipment makers"
+      ],
+      "insights": [
+        {
+          "ticker": "LRCX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Stock surged 8.4% on analyst price target increases and AI-driven demand expectations for chip equipment."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Rose 3.6% alongside other chip equipment makers benefiting from AI-driven demand and analyst optimism."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Dropped as much as 12.9% despite beating earnings and announcing a $70 billion capital expense budget, indicating market disappointment despite strong fundamentals."
+        },
+        {
+          "ticker": "ORCLpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Dropped as much as 12.9% despite beating earnings and announcing a $70 billion capital expense budget, indicating market disappointment despite strong fundamentals."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down 2.2% with no major news, but its massive $4.2 trillion market cap makes it the most influential stock moving the Nasdaq and S&P 500 indexes downward."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down 2.2% with no major news, but its massive $4.2 trillion market cap makes it the most influential stock moving the Nasdaq and S&P 500 indexes downward."
+        },
+        {
+          "ticker": "GOOGM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down 2.2% with no major news, but its massive $4.2 trillion market cap makes it the most influential stock moving the Nasdaq and S&P 500 indexes downward."
+        },
+        {
+          "ticker": "GOOGN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down 2.2% with no major news, but its massive $4.2 trillion market cap makes it the most influential stock moving the Nasdaq and S&P 500 indexes downward."
+        },
+        {
+          "ticker": "IBIT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Rose 1.2% as Bitcoin followed volatile equities rather than acting as a safe haven, reflecting risk-on sentiment during the market recovery."
+        }
+      ]
+    },
+    {
+      "id": "ac537885c828fe636fe24432dd169dd587c27fc356188febc03e1bfaaa406dad",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Why the AI capex cycle may just be beginning",
+      "author": "Cobank Knowledge Exchange",
+      "published_utc": "2026-06-11T16:52:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/06/11/3310733/0/en/Why-the-AI-capex-cycle-may-just-be-beginning.html",
+      "tickers": [
+        "AMZN",
+        "MSFT",
+        "META",
+        "GOOG",
+        "GOOGL",
+        "GOOGM",
+        "GOOGN",
+        "NVDA",
+        "MU"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/c0015428-bdbf-467f-ad71-c363170bf920",
+      "description": "Despite concerns about an AI bubble similar to the dot-com era, CoBank's analysis suggests AI infrastructure spending will continue due to strong profitability across the ecosystem, robust returns on invested capital, and explosive application growth. U.S. hyperscalers spent $400 billion in 2025 with expectations to reach $700 billion in 2026, driven by Amazon, Microsoft, Meta, and Google. Key differences from the dot-com bubble include healthier cash flows, established revenue streams, and no excess capacity in AI infrastructure.",
+      "keywords": [
+        "AI infrastructure investment",
+        "capital expenditures",
+        "hyperscalers",
+        "AI bubble concerns",
+        "profitability",
+        "semiconductor demand",
+        "AI applications",
+        "productivity gains"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Identified as a major hyperscaler driving AI infrastructure investments with strong capex spending expected to continue, supporting revenue growth and market momentum."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a leading hyperscaler investing heavily in AI infrastructure, positioning it to benefit from the continued capex cycle and AI application development."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Identified as a major hyperscaler participating in the AI infrastructure investment race with sustained spending expected to drive future growth."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Named as a key hyperscaler investing significantly in AI infrastructure, expected to benefit from continued capex spending and AI ecosystem profitability."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Named as a key hyperscaler investing significantly in AI infrastructure, expected to benefit from continued capex spending and AI ecosystem profitability."
+        },
+        {
+          "ticker": "GOOGM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Named as a key hyperscaler investing significantly in AI infrastructure, expected to benefit from continued capex spending and AI ecosystem profitability."
+        },
+        {
+          "ticker": "GOOGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Named as a key hyperscaler investing significantly in AI infrastructure, expected to benefit from continued capex spending and AI ecosystem profitability."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Semiconductor manufacturer projecting over $1 trillion in cumulative AI GPU revenue through 2027, demonstrating strong profitability and sustained demand for AI chips."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Memory maker reported Q2 revenue of $23 billion with 196% year-over-year growth, significantly exceeding expectations and indicating robust demand from AI infrastructure buildout."
+        }
+      ]
+    }
+  ],
+  "status": "OK",
+  "request_id": "30157753f4f34b1f62e5d9c8bd788a68",
+  "count": 10,
+  "next_url": "https://api.massive.com/v2/reference/news?cursor=YXA9MjAyNi0wNi0xMVQxNiUzQTUyJTNBMDBaJmFzPWFjNTM3ODg1YzgyOGZlNjM2ZmUyNDQzMmRkMTY5ZGQ1ODdjMjdmYzM1NjE4OGZlYmMwM2UxYmZhYWE0MDZkYWQmb3JkZXI9ZGVzY2VuZGluZyZwdWJsaXNoZWRfdXRjLmd0ZT0yMDI2LTA2LTAxJnRpY2tlcj1NVQ"
+}

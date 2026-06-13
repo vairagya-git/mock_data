@@ -1,0 +1,555 @@
+{
+  "results": [
+    {
+      "id": "919e288f7767ac0ba7f0f4305f25ad92e20d2d766061903c815fcada4c47ebb2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Is My Best Artificial Intelligence (AI) Stock to Buy in June (Hint: It's Not Micron Technology)",
+      "author": "Harsh Chauhan",
+      "published_utc": "2026-05-31T18:23:00Z",
+      "article_url": "https://www.fool.com/investing/2026/05/31/this-is-my-best-artificial-intelligence-ai-stock-t/?source=iedfolrf0000001",
+      "tickers": [
+        "CIEN",
+        "MU"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872474%2Fcien_tmf.png&w=1200&op=resize",
+      "description": "The article recommends Ciena as the top AI stock to buy in June 2026, ahead of its earnings report on June 4. While Micron Technology has delivered strong gains due to AI data center demand for memory chips, Ciena's optical networking components are equally critical for data center interconnects. Ciena has shown impressive growth with 33% YoY revenue increase and 111% earnings growth, supported by strong demand exceeding supply and a $7 billion order backlog. The company is expected to continue benefiting from massive AI infrastructure investments through the decade.",
+      "keywords": [
+        "AI stocks",
+        "data centers",
+        "optical networking",
+        "memory chips",
+        "earnings growth",
+        "supply constraints",
+        "AI infrastructure"
+      ],
+      "insights": [
+        {
+          "ticker": "CIEN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong revenue growth (33% YoY), exceptional earnings growth (111% YoY), demand exceeding supply, $7 billion order backlog, and expected continued growth from AI data center investments through the decade. Trading at premium valuation justified by 136% expected earnings increase."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Delivered outstanding 208% gains in 2026, expected to report strong Q3 results on June 24 with projected 261% revenue increase and 10x earnings increase. Benefits from favorable AI data center demand for high-bandwidth memory chips, though article positions it as secondary choice to Ciena."
+        }
+      ]
+    },
+    {
+      "id": "43a32c6dc75e87ec801fd6291f86a17afab60067ff2a97c98626edb2cf499ccc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Missed Out on Nvidia? Here's 1 AI Stock You Can Buy Right Now.",
+      "author": "Brett Schafer",
+      "published_utc": "2026-05-31T16:30:00Z",
+      "article_url": "https://www.fool.com/investing/2026/05/31/missed-out-on-nvidia-heres-1-ai-stock-you-can-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "CPNG",
+        "NVDA",
+        "MU",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871942%2Fai7.jpg&w=1200&op=resize",
+      "description": "Coupang, a South Korean e-commerce platform, is presented as an undervalued AI stock opportunity. The company is integrating AI across warehouses, advertising, fintech, and food delivery, while launching its Coupang Intelligent Cloud. With 24 million active customers and $35 billion in annual revenue, the stock trades at a low valuation relative to growth potential, potentially benefiting from increased consumer spending driven by semiconductor industry bonuses.",
+      "keywords": [
+        "AI stocks",
+        "e-commerce",
+        "South Korea",
+        "warehouse automation",
+        "undervalued",
+        "growth potential",
+        "semiconductor boom"
+      ],
+      "insights": [
+        {
+          "ticker": "CPNG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Positioned as an undervalued AI stock with strong growth catalysts including AI integration across multiple business segments, expansion into Taiwan with 100%+ YoY growth, customer loyalty, and potential consumer spending boost from semiconductor industry bonuses. Valuation appears attractive relative to projected revenue growth."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a past winner with premium valuations and major downside risks if AI spending boom slows. Used as a comparison point rather than a current recommendation."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced as a recent AI stock winner that has already delivered significant gains, suggesting limited upside opportunity at current valuations."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a business model comparison for Coupang's e-commerce marketplace structure, not as an investment recommendation."
+        }
+      ]
+    },
+    {
+      "id": "c55effbf037dfe07b671f074488e7146c8942974f03401cfb8d2f4f722f42f91",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Are Micron and Sandisk Stocks in a Bubble?",
+      "author": "Keithen Drury",
+      "published_utc": "2026-05-31T12:08:00Z",
+      "article_url": "https://www.fool.com/investing/2026/05/31/are-micron-and-sandisk-stocks-in-a-bubble/?source=iedfolrf0000001",
+      "tickers": [
+        "MU",
+        "SNDK"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872100%2Fperson-looking-at-a-computer-screen-worried.jpg&w=1200&op=resize",
+      "description": "Micron and Sandisk, both memory chip manufacturers, have experienced extraordinary stock gains (860% and 4,160% respectively over the past year). While concerns about bubble valuations are common for such rapid rises, the article argues neither stock is overvalued. Both companies benefit from strong demand for DRAM and NAND memory chips in data centers, with supply constraints expected to persist for several years. The main risk is the cyclical nature of the memory chip market, which could reverse once the current boom cycle ends.",
+      "keywords": [
+        "memory chips",
+        "DRAM",
+        "NAND",
+        "data centers",
+        "supply shortage",
+        "stock valuation",
+        "AI boom",
+        "semiconductor industry"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong 196% year-over-year growth, reasonable forward earnings valuation, expected to meet only half to two-thirds of medium-term demand indicating sustained supply constraints, and projected HBM market growth from $35B to $100B by 2028 support continued upside potential."
+        },
+        {
+          "ticker": "SNDK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Exceptional 251% year-over-year growth, impressive stock appreciation (4,160% over past year), reasonable valuation metrics, and strong multiyear data center growth projections indicate continued positive momentum despite cyclical market risks."
+        }
+      ]
+    },
+    {
+      "id": "8393fb1d844e304a71aa69835a45903e2f0b4d9891d8b80af8eea6214f86990a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Micron Just Entered the Trillion-Dollar Club. Is It Too Late to Buy the Stock?",
+      "author": "Adria Cimino",
+      "published_utc": "2026-05-31T09:05:00Z",
+      "article_url": "https://www.fool.com/investing/2026/05/31/micron-just-entered-the-trillion-dollar-club-is-it/?source=iedfolrf0000001",
+      "tickers": [
+        "MU",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "STX"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872148%2Fgettyimages-968838136.jpg&w=1200&op=resize",
+      "description": "Micron Technology has reached a $1 trillion market valuation, joining an exclusive club of tech giants. The company is experiencing startup-like growth driven by AI demand for memory products (DRAM, NAND, HBM). With revenue surging nearly 200% to over $23 billion and strong forward guidance, analysts view the stock as a compelling buy despite recent gains, citing reasonable valuation and significant growth potential from emerging agentic AI applications.",
+      "keywords": [
+        "artificial intelligence",
+        "memory chips",
+        "trillion-dollar valuation",
+        "DRAM",
+        "NAND",
+        "HBM",
+        "agentic AI",
+        "revenue growth",
+        "market cap"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong AI-driven revenue growth (nearly 200% surge), record-setting financial metrics, supply-constrained demand environment, and positioned to benefit from emerging agentic AI wave. Valuation considered reasonable despite recent gains."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a comparison point for market cap leadership but not the focus of analysis. No specific sentiment drivers discussed in the article."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced only as a member of the trillion-dollar club without specific analysis or sentiment drivers."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced only as a member of the trillion-dollar club without specific analysis or sentiment drivers."
+        },
+        {
+          "ticker": "STX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitor in the memory space, but article notes sufficient market room for multiple players if AI growth unfolds as expected."
+        }
+      ]
+    },
+    {
+      "id": "aa7029f1c5489b61d60a5b4e0703c07b4f7835d5b85db97ea66e8831a41089f7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia Says Big Tech Will Spend $1 Trillion in Capital Expenditures in 2027: 3 Stocks to Buy If It's Right",
+      "author": "Keithen Drury",
+      "published_utc": "2026-05-31T06:30:00Z",
+      "article_url": "https://www.fool.com/investing/2026/05/31/nvidia-says-big-tech-will-spend-1-trillion-in-capi/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "TSM",
+        "MU"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871510%2Fperson-overlooking-a-datacenter.jpg&w=1200&op=resize",
+      "description": "Nvidia projects that big tech companies will spend $1 trillion on data center capital expenditures in 2027, with expectations to reach $3-4 trillion annually by 2030. The article identifies three stocks positioned to benefit from this massive AI infrastructure build-out: Nvidia as the leading AI chip designer, Taiwan Semiconductor as the primary chip manufacturer, and Micron as a critical memory chip supplier facing supply constraints.",
+      "keywords": [
+        "AI infrastructure",
+        "data center capital expenditures",
+        "semiconductor manufacturing",
+        "memory chips",
+        "chip supply chain"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is positioned as the leading AI computing unit provider with strong growth prospects. The company's new Rubin architecture platform and the projected $1 trillion capex spend in 2027 should drive significant revenue growth, with potential for growth rates far exceeding the projected 39% analyst estimate."
+        },
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "As the primary fabrication partner for Nvidia and other chip makers, Taiwan Semiconductor is well-positioned to benefit from increased chip demand. The company expects its AI chip business to grow at nearly 60% compounded annual growth rate from 2024-2029, making it a strong cornerstone investment for AI exposure."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Micron is a key memory chip manufacturer facing significant supply constraints with demand exceeding capacity. The company can only meet half to two-thirds of medium-term demand, causing memory chip prices to skyrocket. Expected revenue tripling and 60% growth rate next year position it to capitalize on the memory chip shortage."
+        }
+      ]
+    },
+    {
+      "id": "9484dd024360b1494da2dd6156f10857e2b9d6500e82eecfb60bf5a9306b9c4f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: Here's How Much Micron Stock Will Be Worth in 2 Years",
+      "author": "Adam Levy",
+      "published_utc": "2026-05-30T18:24:00Z",
+      "article_url": "https://www.fool.com/investing/2026/05/30/prediction-heres-how-much-micron-stock-will-be-wor/?source=iedfolrf0000001",
+      "tickers": [
+        "MU"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871803%2Fthe-motley-fool-micron.png&w=1200&op=resize",
+      "description": "Micron has surged 800% in the past year due to AI-driven demand for memory chips, but analyst Adam Levy predicts the stock will trade below its current $899 price in two years. The memory chip market is cyclical, with supply expected to catch up to demand by 2028, potentially causing a significant earnings decline. Based on historical P/E ratios at previous earnings peaks, Micron stock could be worth around $517.50 in mid-2028, with a possible range of $275-$930.",
+      "keywords": [
+        "memory chips",
+        "AI infrastructure",
+        "semiconductor cycle",
+        "earnings peak",
+        "supply and demand",
+        "high-bandwidth memory (HBM)",
+        "production capacity",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The analyst predicts Micron stock will trade below its current price of $899 within two years, with an expected fair value around $517.50 by mid-2028. The article highlights that the current valuation appears extremely expensive and warns of a potential earnings collapse when the memory chip cycle peaks and supply catches up to demand, a pattern historically seen in the semiconductor sector."
+        }
+      ]
+    },
+    {
+      "id": "812d5cf0904729155f7029f4cd1c41e235eaf9fa190a07e45385b0a91557f0dc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Micron Stock a Buy Before June 24?",
+      "author": "Jeremy Bowman",
+      "published_utc": "2026-05-30T06:30:00Z",
+      "article_url": "https://www.fool.com/investing/2026/05/30/should-you-buy-micron-stock-before-june-24/?source=iedfolrf0000001",
+      "tickers": [
+        "MU",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872050%2Fmarket-data.jpg&w=1200&op=resize",
+      "description": "Micron Technology has rapidly reached a $1 trillion market cap in just 48 trading days, driven by strong AI-related memory demand and supply constraints. The company reported nearly tripled revenue to $23.8 billion and a 67.6% operating margin in its most recent quarter. Management expects supply tightness to persist beyond 2026, with customers only able to fill 60% of memory needs. The stock trades at a forward P/E of 16 and is positioned to move higher ahead of its June 24 earnings report.",
+      "keywords": [
+        "memory chips",
+        "AI demand",
+        "supply constraints",
+        "earnings growth",
+        "semiconductor supercycle",
+        "DRAM",
+        "HBM",
+        "NAND"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong revenue and profit growth driven by AI demand, structural supply-demand imbalance expected to persist beyond 2026, management guidance strengthened, reasonable forward P/E valuation of 16, and analyst price target of $1,650 suggesting significant upside potential."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Referenced as a major customer with strong demand for memory products; CFO noted they ordered memory long ago and are collaborating with Micron on future products, indicating robust demand dynamics."
+        }
+      ]
+    },
+    {
+      "id": "19c73635fda54d1e45c8538e71d63bf75bf19d72e9269936bb8c33f3d80eceaa",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Fund Manager Has a Brilliant Strategy for Investing in AI Stocks",
+      "author": "Jeremy Bowman",
+      "published_utc": "2026-05-30T01:30:00Z",
+      "article_url": "https://www.fool.com/investing/2026/05/29/this-billionaire-has-a-brilliant-strategy-for-inve/?source=iedfolrf0000001",
+      "tickers": [
+        "MU",
+        "NVDA",
+        "SNDK",
+        "LITE",
+        "COHR"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872413%2Fai-lightbulb.jpg&w=1200&op=resize",
+      "description": "Hedge fund manager Gavin Baker identifies a valuation inefficiency in AI stocks, arguing that memory chips (Micron, SanDisk) and Nvidia are undervalued while optical stocks (Lumentum, Coherent) are overvalued based on multiple expansion. Baker suggests that if the AI cycle continues uniformly across sectors, cheaper stocks should outperform expensive ones over the long term.",
+      "keywords": [
+        "AI stocks",
+        "valuation inefficiency",
+        "semiconductor sector",
+        "memory chips",
+        "optical chips",
+        "multiple expansion",
+        "cyclicality"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Identified as undervalued memory stock with attractive valuation relative to growth prospects; positioned to outperform if AI cycle continues"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Trading at low P/E ratio despite strong fundamentals; valuation has actually fallen while stock appreciated, suggesting upside potential"
+        },
+        {
+          "ticker": "SNDK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Identified as cheap memory stock with attractive valuation in the AI sector"
+        },
+        {
+          "ticker": "LITE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Trading at triple-digit P/E ratio with gains driven by multiple expansion rather than fundamentals; overvalued relative to growth and profitability"
+        },
+        {
+          "ticker": "COHR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Trading at triple-digit P/E ratio despite not growing faster or being more profitable than cheaper alternatives; vulnerable if AI cycle fades"
+        }
+      ]
+    },
+    {
+      "id": "c08c4c2aec0b2524865b2e4448cd33610f017666a092880516c815a978af0d4e",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "The S&P Hit A Record While 8 Of 11 Sectors Fell",
+      "author": "Gav Blaxberg",
+      "published_utc": "2026-05-29T21:40:15Z",
+      "article_url": "https://www.benzinga.com/Opinion/26/05/52891278/the-sp-hit-a-record-while-8-of-11-sectors-fell?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+      "tickers": [
+        "DELL",
+        "NVDA",
+        "AAPL",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "MU",
+        "AMD",
+        "META",
+        "MSFT",
+        "HOOD"
+      ],
+      "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/29/Gav-Blaxberg.jpeg",
+      "description": "The S&P 500 reached a record high of 7,581 in May despite 8 of 11 sectors finishing lower, driven by narrow leadership in AI-related technology stocks. Dell surged 30% on $16.1B in quarterly AI server sales, while oil prices fell 19% on a 60-day Iran ceasefire. The market rally is concentrated in mega-cap tech and semiconductors, raising concerns about breadth and sustainability.",
+      "keywords": [
+        "S&P 500 record",
+        "AI infrastructure",
+        "narrow market leadership",
+        "Dell earnings",
+        "semiconductor rally",
+        "oil prices",
+        "market breadth",
+        "mega-cap concentration"
+      ],
+      "insights": [
+        {
+          "ticker": "DELL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Stock jumped 30% on exceptional earnings with $16.1B in AI server sales (up 757% YoY) and raised full-year guidance, signaling strong AI infrastructure demand expansion."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Leading the trillion-dollar club at $5.2T valuation; semiconductor index (SOXX) climbed 24% in May, benefiting from sustained AI demand."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Reached $4.5T valuation, part of the trillion-dollar club driving record index highs, though not specifically highlighted as an AI beneficiary."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AWS margins inflected positively last quarter on customer spending through AI models, indicating strong AI infrastructure monetization."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Second-largest company at $4.7T valuation; $10B investment in Anthropic at $350B valuation shows strong AI capital deployment."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Second-largest company at $4.7T valuation; $10B investment in Anthropic at $350B valuation shows strong AI capital deployment."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Crossed $1T market cap for the first time this month, riding strong AI demand wave."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Topped $800B valuation, benefiting from AI infrastructure demand alongside other semiconductor players."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of mega-cap tech concentration driving market rally, though not specifically highlighted in article details."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mega-cap software company benefiting from narrow AI-driven market leadership in May."
+        },
+        {
+          "ticker": "HOOD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Unveiled AI trading agents with 3% cash back, representing innovation in fintech but without specific market impact data provided."
+        }
+      ]
+    },
+    {
+      "id": "e3cc28910645803b8f0c2846e3887ba82a50bda76ebb88e5bcde67b917f3ef56",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.massive.com/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.massive.com/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Micron's Best Month Since 1985 Powers A 9-Week S&P 500 Rally: This Week On Wall Street",
+      "author": "Piero Cingari",
+      "published_utc": "2026-05-29T20:00:52Z",
+      "article_url": "https://www.benzinga.com/markets/market-summary/26/05/52887979/micron-technology-best-month-since-1985-spx-sp-500-9-straight-week-rally?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+      "tickers": [
+        "MU",
+        "DELL",
+        "SNOW",
+        "F",
+        "FpB",
+        "FpC",
+        "FpD",
+        "QCOM",
+        "SOXX"
+      ],
+      "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/29/wall-street-ai9.png",
+      "description": "The S&P 500 achieved its ninth consecutive weekly gain amid an AI-fueled bull market. Semiconductor stocks surged dramatically, with Micron Technology gaining 84% in May and crossing $1 trillion market cap. The rally broadened beyond chipmakers to include Dell Technologies, Snowflake, and Ford Motor, all posting significant gains. Favorable inflation data and slower GDP growth eased Fed rate hike concerns, supporting the continued market momentum.",
+      "keywords": [
+        "AI infrastructure boom",
+        "semiconductor stocks",
+        "S&P 500 rally",
+        "market momentum",
+        "inflation data",
+        "technology stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Surged 84% in May, best monthly performance since November 1985, crossed $1 trillion market cap threshold, driving semiconductor sector gains"
+        },
+        {
+          "ticker": "DELL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Jumped 30% on Friday with 97% monthly gain, reported record Q1 revenue of $43.8B with $24.4B in AI-related orders and $60B AI server revenue forecast"
+        },
+        {
+          "ticker": "SNOW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Surged 36.5% on Thursday (best day ever) after announcing $6B five-year commitment with AWS, demonstrating expanding AI spending across technology stack"
+        },
+        {
+          "ticker": "F",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Extended rally to eighth consecutive session, gained 45% in May (strongest since April 2009), reached highest level since 2022 on new Ford Energy battery-storage business"
+        },
+        {
+          "ticker": "FpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Extended rally to eighth consecutive session, gained 45% in May (strongest since April 2009), reached highest level since 2022 on new Ford Energy battery-storage business"
+        },
+        {
+          "ticker": "FpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Extended rally to eighth consecutive session, gained 45% in May (strongest since April 2009), reached highest level since 2022 on new Ford Energy battery-storage business"
+        },
+        {
+          "ticker": "FpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Extended rally to eighth consecutive session, gained 45% in May (strongest since April 2009), reached highest level since 2022 on new Ford Energy battery-storage business"
+        },
+        {
+          "ticker": "QCOM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nearly doubled over past two months, strongest rally since December 1999 dot-com boom, benefiting from semiconductor sector surge"
+        },
+        {
+          "ticker": "SOXX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Gained 40% in April and 23% in May, marking strongest two-month advance in fund history, driven by AI infrastructure boom"
+        }
+      ]
+    }
+  ],
+  "status": "OK",
+  "request_id": "8de8d97c01fe6e34fbef5a1aebeeb2db",
+  "count": 10,
+  "next_url": "https://api.massive.com/v2/reference/news?cursor=YXA9MjAyNi0wNS0yOVQyMCUzQTAwJTNBNTJaJmFzPWUzY2MyODkxMDY0NTgwM2I4ZjBjMjg0NmUzODg3YmE4MmE1MGJkYTc2ZWJiODhlNWJjZGU2N2I5MTdmM2VmNTYmb3JkZXI9ZGVzY2VuZGluZyZwdWJsaXNoZWRfdXRjLmd0ZT0yMDI2LTAzLTAxJnB1Ymxpc2hlZF91dGMubHQ9MjAyNi0wNi0wMSZ0aWNrZXI9TVU"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "849d62c3-bd97-4303-8b47-b5b2e78b7456",
+  "name": "v2_aggs_ticker_klac_range_1_day_2026-06-09_2026-06-10",
+  "request": {
+    "urlPath": "/v2/aggs/ticker/KLAC/range/1/day/2026-06-09/2026-06-10",
+    "method": "GET",
+    "queryParameters": {
+      "adjusted": {
+        "hasExactly": [
+          {
+            "equalTo": "true"
+          }
+        ]
+      },
+      "apiKey": {
+        "hasExactly": [
+          {
+            "equalTo": "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+          }
+        ]
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "v2_aggs_ticker_klac_range_1_day_2026-06-09_2026-06-10-849d62c3-bd97-4303-8b47-b5b2e78b7456.json",
+    "headers": {
+      "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+      "X-Request-Id": "7436875eda0b26b74f07a6f46a4ec72d",
+      "Vary": "Accept-Encoding",
+      "Date": "Sat, 13 Jun 2026 14:59:16 GMT",
+      "X-Polygon-Cluster-Name": "polygon-ny5",
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "849d62c3-bd97-4303-8b47-b5b2e78b7456",
+  "persistent": true,
+  "insertionIndex": 53
+}
