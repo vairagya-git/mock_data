@@ -1,0 +1,44 @@
+{
+  "id" : "2c7c182b-fbfd-4e2f-a80b-b8697b8e5b95",
+  "name" : "benzinga_v1_ratings",
+  "request" : {
+    "urlPath" : "/benzinga/v1/ratings",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "*/*"
+      }
+    },
+    "queryParameters" : {
+      "ticker" : {
+        "hasExactly" : [ {
+          "equalTo" : "SNDK"
+        } ]
+      },
+      "apiKey" : {
+        "hasExactly" : [ {
+          "equalTo" : "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+        } ]
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "benzinga_ratings/benzinga_v1_ratings-SNDK-response.json",
+    "headers" : {
+      "x-request-id" : "37294d4d71ec4a98a6276934f73bf9c4",
+      "Strict-Transport-Security" : "max-age=15724800; includeSubDomains",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "GET, PUT, POST, DELETE, PATCH, OPTIONS",
+      "Access-Control-Allow-Credentials" : "true",
+      "Vary" : "Accept-Encoding",
+      "Access-Control-Max-Age" : "1728000",
+      "Access-Control-Allow-Headers" : "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Authorization",
+      "Date" : "Sun, 21 Jun 2026 19:52:42 GMT",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "2c7c182b-fbfd-4e2f-a80b-b8697b8e5b95",
+  "persistent" : true,
+  "insertionIndex" : 18
+}

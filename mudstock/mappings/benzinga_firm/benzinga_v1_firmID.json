@@ -1,0 +1,33 @@
+{
+  "id" : "b6f52e53-eaf4-4036-9aaa-a8c8f68345d4",
+  "name" : "benzinga_v1_firmsID",
+  "request" : {
+    "urlPath" : "/benzinga/v1/firms",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "*/*"
+      }
+    },
+    "queryParameters" : {
+      "benzinga_id" : {
+        "hasExactly" : [ {
+          "equalTo" : "66c57995cf364000017832c6"
+        } ]
+      },
+      "apiKey" : {
+        "hasExactly" : [ {
+          "equalTo" : "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+        } ]
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "benzinga_firm/benzinga_v1_firmsID-response.json",
+    "headers": { "Content-Type": "application/json" }
+  },
+  "uuid" : "b6f52e53-eaf4-4036-9aaa-a8c8f68345d4",
+  "persistent" : true,
+  "insertionIndex" : 10
+}

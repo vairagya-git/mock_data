@@ -1,0 +1,25 @@
+{
+  "id" : "73d9aaf6-f1fa-4643-9a26-7362dc2a7d18",
+  "name" : "ticker_sndk",
+  "request" : {
+    "url" : "/ticker/SNDK",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "contains" : "application/json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "yfinance/yfinance_sndk_response.json",
+    "headers" : {
+      "date" : "Mon, 15 Jun 2026 23:02:59 GMT",
+      "server" : "uvicorn",
+      "content-type" : "application/json"
+    }
+  },
+  "uuid" : "73d9aaf6-f1fa-4643-9a26-7362dc2a7d18",
+  "persistent" : true,
+  "insertionIndex" : 7
+}

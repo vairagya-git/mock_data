@@ -1,0 +1,76 @@
+{
+  "id": "3e75747f-3db5-46fa-8d04-e67058e2d3ff",
+  "name": "v2_reference_news",
+  "request": {
+    "urlPath": "/v2/reference/news",
+    "method": "GET",
+    "queryParameters": {
+      "ticker": {
+        "hasExactly": [
+          {
+            "equalTo": "MU"
+          }
+        ]
+      },
+      "order": {
+        "hasExactly": [
+          {
+            "equalTo": "desc"
+          }
+        ]
+      },
+      "limit": {
+        "hasExactly": [
+          {
+            "equalTo": "10"
+          }
+        ]
+      },
+      "sort": {
+        "hasExactly": [
+          {
+            "equalTo": "published_utc"
+          }
+        ]
+      },
+      "published_utc.gte": {
+        "hasExactly": [
+          {
+            "equalTo": "2026-03-01"
+          }
+        ]
+      },
+      "published_utc.lt": {
+        "hasExactly": [
+          {
+            "equalTo": "2026-06-01"
+          }
+        ]
+      },
+      "apiKey": {
+        "hasExactly": [
+          {
+            "equalTo": "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+          }
+        ]
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "news/news-MU-response2.json",
+    "headers": {
+      "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+      "X-Request-Id": "8de8d97c01fe6e34fbef5a1aebeeb2db",
+      "Vary": "Accept-Encoding",
+      "X-Item-Count": "10",
+      "Link": "<https://api.massive.com/v2/reference/news?cursor=YXA9MjAyNi0wNS0yOVQyMCUzQTAwJTNBNTJaJmFzPWUzY2MyODkxMDY0NTgwM2I4ZjBjMjg0NmUzODg3YmE4MmE1MGJkYTc2ZWJiODhlNWJjZGU2N2I5MTdmM2VmNTYmb3JkZXI9ZGVzY2VuZGluZyZwdWJsaXNoZWRfdXRjLmd0ZT0yMDI2LTAzLTAxJnB1Ymxpc2hlZF91dGMubHQ9MjAyNi0wNi0wMSZ0aWNrZXI9TVU>; rel=\"next\"",
+      "Date": "Sat, 13 Jun 2026 13:21:24 GMT",
+      "X-Polygon-Cluster-Name": "polygon-ny5",
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "3e75747f-3db5-46fa-8d04-e67058e2d3ff",
+  "persistent": true,
+  "insertionIndex": 15
+}

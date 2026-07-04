@@ -1,0 +1,25 @@
+{
+  "id" : "ea683e17-1c43-4178-8855-5644394ce376",
+  "name" : "ticker_mu",
+  "request" : {
+    "url" : "/ticker/MU",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "contains" : "application/json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "yfinance/yfinance_mu_response.json",
+    "headers" : {
+      "date" : "Mon, 15 Jun 2026 23:03:18 GMT",
+      "server" : "uvicorn",
+      "content-type" : "application/json"
+    }
+  },
+  "uuid" : "ea683e17-1c43-4178-8855-5644394ce376",
+  "persistent" : true,
+  "insertionIndex" : 6
+}

@@ -1,0 +1,44 @@
+{
+  "id" : "182fbbc3-f4df-43c3-8634-ee394fcd2a4d",
+  "name" : "benzinga_v1_analysts",
+  "request" : {
+    "urlPath" : "/benzinga/v1/analysts",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "*/*"
+      }
+    },
+    "queryParameters" : {
+      "benzinga_id" : {
+        "hasExactly" : [ {
+          "equalTo" : "58072986846faa000106abc6"
+        } ]
+      },
+      "apiKey" : {
+        "hasExactly" : [ {
+          "equalTo" : "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+        } ]
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "benzinga_v1_firmsID-response.json",
+    "headers" : {
+      "x-request-id" : "4d9e481f68cc4bcbb14a83384ddd08a1",
+      "Strict-Transport-Security" : "max-age=15724800; includeSubDomains",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "GET, PUT, POST, DELETE, PATCH, OPTIONS",
+      "Access-Control-Allow-Credentials" : "true",
+      "Vary" : "Accept-Encoding",
+      "Access-Control-Max-Age" : "1728000",
+      "Access-Control-Allow-Headers" : "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Authorization",
+      "Date" : "Sun, 21 Jun 2026 20:05:45 GMT",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "182fbbc3-f4df-43c3-8634-ee394fcd2a4d",
+  "persistent" : true,
+  "insertionIndex" : 24
+}

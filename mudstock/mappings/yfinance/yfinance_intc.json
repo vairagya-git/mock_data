@@ -1,0 +1,25 @@
+{
+  "id" : "0554c638-abe8-4770-81f5-70fb3927d448",
+  "name" : "ticker_intc",
+  "request" : {
+    "url" : "/ticker/INTC",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "contains" : "application/json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "yfinance/yfinance_intc_response.json",
+    "headers" : {
+      "date" : "Mon, 15 Jun 2026 23:03:23 GMT",
+      "server" : "uvicorn",
+      "content-type" : "application/json"
+    }
+  },
+  "uuid" : "0554c638-abe8-4770-81f5-70fb3927d448",
+  "persistent" : true,
+  "insertionIndex" : 5
+}

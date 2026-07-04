@@ -1,0 +1,25 @@
+{
+  "id" : "d20aad2d-4a5d-4ff2-8966-03e0a332a6cf",
+  "name" : "ticker_klac",
+  "request" : {
+    "url" : "/ticker/KLAC",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "contains" : "application/json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "yfinance/yfinance_klac_response.json",
+    "headers" : {
+      "date" : "Mon, 15 Jun 2026 23:03:40 GMT",
+      "server" : "uvicorn",
+      "content-type" : "application/json"
+    }
+  },
+  "uuid" : "d20aad2d-4a5d-4ff2-8966-03e0a332a6cf",
+  "persistent" : true,
+  "insertionIndex" : 4
+}

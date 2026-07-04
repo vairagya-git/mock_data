@@ -1,0 +1,39 @@
+{
+  "id": "a99c0d1c-baff-4dd3-9fb2-7e02035f47b0",
+  "name": "open-close_sndk_2026-06-12",
+  "request": {
+    "urlPath": "/v1/open-close/SNDK/2026-06-12",
+    "method": "GET",
+    "queryParameters": {
+      "adjusted": {
+        "hasExactly": [
+          {
+            "equalTo": "true"
+          }
+        ]
+      },
+      "apiKey": {
+        "hasExactly": [
+          {
+            "equalTo": "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+          }
+        ]
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "open-close/open-close_sndk_2026-06-12-response.json",
+    "headers": {
+      "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+      "X-Request-Id": "36e12b750a7b36e9e81e707cba40ee98",
+      "Vary": "Accept-Encoding",
+      "Date": "Sat, 13 Jun 2026 13:58:41 GMT",
+      "X-Polygon-Cluster-Name": "polygon-ny5",
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "a99c0d1c-baff-4dd3-9fb2-7e02035f47b0",
+  "persistent": true,
+  "insertionIndex": 23
+}

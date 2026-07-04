@@ -1,0 +1,68 @@
+{
+  "id": "2c8c4620-cd04-4414-89ec-484b16e6ee62",
+  "name": "v2_reference_news",
+  "request": {
+    "urlPath": "/v2/reference/news",
+    "method": "GET",
+    "queryParameters": {
+      "ticker": {
+        "hasExactly": [
+          {
+            "equalTo": "KLAC"
+          }
+        ]
+      },
+      "order": {
+        "hasExactly": [
+          {
+            "equalTo": "desc"
+          }
+        ]
+      },
+      "limit": {
+        "hasExactly": [
+          {
+            "equalTo": "10"
+          }
+        ]
+      },
+      "sort": {
+        "hasExactly": [
+          {
+            "equalTo": "published_utc"
+          }
+        ]
+      },
+      "published_utc.gte": {
+        "hasExactly": [
+          {
+            "equalTo": "2026-06-01"
+          }
+        ]
+      },
+      "apiKey": {
+        "hasExactly": [
+          {
+            "equalTo": "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+          }
+        ]
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "news/news-KLAC-response.json",
+    "headers": {
+      "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+      "X-Request-Id": "59e772f74955be5041e5de0d444a9279",
+      "Vary": "Accept-Encoding",
+      "X-Item-Count": "7",
+      "Date": "Sat, 13 Jun 2026 13:04:05 GMT",
+      "X-Polygon-Cluster-Name": "polygon-ny5",
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "2c8c4620-cd04-4414-89ec-484b16e6ee62",
+  "persistent": true,
+  "insertionIndex": 9
+}

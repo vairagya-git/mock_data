@@ -1,0 +1,68 @@
+{
+  "id": "b54ac3b3-68df-452c-a7b9-79b9f65db10d",
+  "name": "v2_reference_news",
+  "request": {
+    "urlPath": "/v2/reference/news",
+    "method": "GET",
+    "queryParameters": {
+      "ticker": {
+        "hasExactly": [
+          {
+            "equalTo": "AAOI"
+          }
+        ]
+      },
+      "order": {
+        "hasExactly": [
+          {
+            "equalTo": "desc"
+          }
+        ]
+      },
+      "limit": {
+        "hasExactly": [
+          {
+            "equalTo": "10"
+          }
+        ]
+      },
+      "sort": {
+        "hasExactly": [
+          {
+            "equalTo": "published_utc"
+          }
+        ]
+      },
+      "published_utc.gte": {
+        "hasExactly": [
+          {
+            "equalTo": "2026-06-01"
+          }
+        ]
+      },
+      "apiKey": {
+        "hasExactly": [
+          {
+            "equalTo": "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+          }
+        ]
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "news/news-AAOI-response.json",
+    "headers": {
+      "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+      "X-Request-Id": "f83a0b7466e47abe38c916eab62968cf",
+      "Vary": "Accept-Encoding",
+      "X-Item-Count": "5",
+      "Date": "Sat, 13 Jun 2026 13:04:38 GMT",
+      "X-Polygon-Cluster-Name": "polygon-ny5",
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "b54ac3b3-68df-452c-a7b9-79b9f65db10d",
+  "persistent": true,
+  "insertionIndex": 8
+}

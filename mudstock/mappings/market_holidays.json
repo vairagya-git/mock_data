@@ -1,0 +1,35 @@
+{
+  "id" : "378429a8-66f8-4fbb-9c8c-146f0c06c350",
+  "name" : "v1_marketstatus_upcoming",
+  "request" : {
+    "urlPath" : "/v1/marketstatus/upcoming",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "*/*"
+      }
+    },
+    "queryParameters" : {
+      "apiKey" : {
+        "hasExactly" : [ {
+          "equalTo" : "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+        } ]
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "market_holidays-response.json",
+    "headers" : {
+      "Strict-Transport-Security" : "max-age=15724800; includeSubDomains",
+      "X-Request-Id" : "68640751a7275d8387333a9aca4055b4",
+      "Vary" : "Accept-Encoding",
+      "Date" : "Mon, 15 Jun 2026 22:21:57 GMT",
+      "X-Polygon-Cluster-Name" : "polygon-ny5",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "378429a8-66f8-4fbb-9c8c-146f0c06c350",
+  "persistent" : true,
+  "insertionIndex" : 1
+}

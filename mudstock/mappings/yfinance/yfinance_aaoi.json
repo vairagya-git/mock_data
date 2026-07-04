@@ -1,0 +1,25 @@
+{
+  "id" : "8de59f76-55d2-4045-917c-b19b2dcad6fe",
+  "name" : "ticker_aaoi",
+  "request" : {
+    "url" : "/ticker/AAOI",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "contains" : "application/json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "yfinance/yfinance_aaoi_response.json",
+    "headers" : {
+      "date" : "Mon, 15 Jun 2026 23:03:47 GMT",
+      "server" : "uvicorn",
+      "content-type" : "application/json"
+    }
+  },
+  "uuid" : "8de59f76-55d2-4045-917c-b19b2dcad6fe",
+  "persistent" : true,
+  "insertionIndex" : 3
+}
