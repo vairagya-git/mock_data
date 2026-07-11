@@ -1,0 +1,46 @@
+{
+  "id" : "57f2f21b-916b-4657-9161-86b69d5ed8e0",
+  "name" : "snapshot_options/mrvl/v3_snapshot_options_mrvl",
+  "request" : {
+    "urlPath" : "/v3/snapshot/options/MRVL",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "text/plain, application/json, application/*+json, */*"
+      }
+    },
+    "queryParameters" : {
+      "strike_price" : {
+        "hasExactly" : [ {
+          "equalTo" : "230"
+        } ]
+      },
+      "expiration_date" : {
+        "hasExactly" : [ {
+          "equalTo" : "2026-07-24"
+        } ]
+      },
+      "apiKey" : {
+        "hasExactly" : [ {
+          "equalTo" : "0jSwNlbvfYIgQ8OAVJsZ7T1sEmpWm7JV"
+        } ]
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "snapshot_options/mrvl/v3_snapshot_options_mrvl-57f2f21b-916b-4657-9161-86b69d5ed8e0.json",
+    "headers" : {
+      "Strict-Transport-Security" : "max-age=15724800; includeSubDomains",
+      "X-Request-Id" : "862792a1a23ad4e7364e6aaedadd9182",
+      "Vary" : [ "Accept-Encoding", "Accept-Encoding" ],
+      "X-Item-Count" : "2",
+      "Date" : "Fri, 10 Jul 2026 19:48:29 GMT",
+      "X-Polygon-Cluster-Name" : "polygon-ny5",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "57f2f21b-916b-4657-9161-86b69d5ed8e0",
+  "persistent" : true,
+  "insertionIndex" : 417
+}
