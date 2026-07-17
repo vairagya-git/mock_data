@@ -4,11 +4,7 @@
   "request" : {
     "urlPath" : "/v3/snapshot/options/INTC",
     "method" : "GET",
-    "headers" : {
-      "Accept" : {
-        "equalTo" : "text/plain, application/json, application/*+json, */*"
-      }
-    },
+    
     "queryParameters" : {
       "strike_price" : {
         "hasExactly" : [ {
